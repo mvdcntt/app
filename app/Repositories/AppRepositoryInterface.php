@@ -17,5 +17,4 @@ interface AppRepositoryInterface
 
     public function delete(int $id): bool;
 
-
 }
